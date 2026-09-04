@@ -3,7 +3,7 @@
 </div>
 
 <h2 align="center">
-LogVar 弹幕 API 服务器
+LogVar 弹 幕 API 服务器
 </h2>
 
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github)](https://github.com/huangxd-/danmu_api)
